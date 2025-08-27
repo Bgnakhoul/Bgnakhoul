@@ -8,7 +8,7 @@
 
 ## 📌 Current Work
 - 📚 Maintaining a [Machine Learning Notes Repository](https://github.com/Bgnakhoul/Machine-Learning-Notes) documenting theory and practical implementations.  
-- 🛠 Working on **XYZ Project** — applying advanced ML models for [brief 1-line description of XYZ project]  
+- 🛠 Working on **Agentic AI Project** — using AI agents for candidate headhunting.  
  
 ---
 
