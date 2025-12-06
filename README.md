@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bachir Nakhoul
 
 🎓 **Computer and Communication Engineering (CCE)** student at **Notre Dame University – Lebanon**  
-🤖 Enthusiast in **Machine Learning** and **AI agent development**   
+🤖 **Below you can find the projects I worked on**   
 📝 Documenting my journey through AI/ML projects  
 
 ---
